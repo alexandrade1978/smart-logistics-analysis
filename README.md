@@ -1,4 +1,45 @@
 # Smart Logistics & Supply Chain Analysis
+<p align="center">
+
+  <!-- Language & environment -->
+  <img src="https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+
+  <!-- Data stack -->
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?logo=plotly&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-4c72b0" alt="Seaborn">
+
+  <!-- SQL & tools -->
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/SQL-Queries-4479A1?logo=databricks&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
+</p>
+
+## Table of Contents
+
+- [Smart Logistics & Supply Chain Analysis](#smart-logistics--supply-chain-analysis)
+- [Table of Contents](#table-of-contents)
+- [1. Project Overview](#1-project-overview)
+- [2. Dataset](#2-dataset)
+- [3. Repository Structure](#3-repository-structure)
+- [4. How to Reproduce the Analysis](#4-how-to-reproduce-the-analysis)
+  - [4.1. Clone the repository](#41-clone-the-repository)
+  - [4.2. Create and activate a virtual environment](#42-create-and-activate-a-virtual-environment)
+  - [4.3. Install dependencies](#43-install-dependencies)
+  - [4.4. Download the dataset](#44-download-the-dataset)
+  - [4.5. (Optional) Build the SQLite database](#45-optional-build-the-sqlite-database)
+  - [4.6. Run the notebook](#46-run-the-notebook)
+- [5. Analysis Outline](#5-analysis-outline)
+- [6. Technology Stack](#6-technology-stack)
+- [7. Author](#7-author)
+- [8. License](#8-license)
+
 
 Exploratory data analysis (EDA), visualization and SQL-based investigation of a smart logistics dataset combining operational KPIs, environmental signals and user behavior data.
 
