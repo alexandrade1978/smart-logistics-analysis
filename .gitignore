@@ -1,0 +1,20 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.db
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# OS / editor files
+.DS_Store
+Thumbs.db
